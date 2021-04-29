@@ -1,2 +1,2 @@
 # Data-Analytics
-Data Analytics Practices
+Data Analytics Practice
